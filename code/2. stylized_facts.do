@@ -1,8 +1,3 @@
-
-********************************
-*** 1. Stylized facts - 2008 ***
-********************************
-
 * Author: Glenn Magerman, email: glenn.magerman@kuleuven.be.
 
 * First version: March 15, 2015.

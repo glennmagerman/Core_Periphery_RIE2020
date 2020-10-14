@@ -1,7 +1,3 @@
-************************
-*** 2. Pecking order ***
-************************
-
 * Author: Glenn Magerman, email: glenn.magerman@kuleuven.be.
 
 * First version: April 23, 2015.

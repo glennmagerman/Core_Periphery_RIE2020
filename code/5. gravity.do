@@ -1,6 +1,3 @@
-**********************************************************
-*** Main regressions - Degrees & Clustering in the WTN ***
-**********************************************************
 * Author: Glenn Magerman. email: glenn.magerman@kuleuven.be
 * First version: October 1, 2014.
 * This version: April 20, 2016.
